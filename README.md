@@ -6,7 +6,7 @@ PDBsum1 is a standalone version of PDBsum Generate for local installation and ru
 To install, download the following files:
 
 <UL>
-  <LI><B>pdbsum1.tar.gz</B> - gzipped tar file of the PDBsum1 programs
+  <LI><B>pdbsum1.zip</B> - gzipped tar file of the PDBsum1 programs
   <LI><B>docs.tar.gz</B> - documentation
 </UL>
 
