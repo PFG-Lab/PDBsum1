@@ -3,11 +3,13 @@ PDBsum1 is a standalone version of PDBsum Generate for local installation and ru
 
 <H4>Installation</H4>
 
-To install, download the following files:
+To install, download the following files (only downloading whichever
+<B>exe_*.tar.gz</B> file is appropriate for your operating system):
 
 <UL>
   <LI><B>pdbsum1.tar.gz</B> - gzipped tar file of the PDBsum1 programs
   <LI><B>data.tar.gz</B> - data files
+  <LI><B>exe_intel_mac.tar.gz</B> - Intel-based mac executables
   <LI><B>exe_linux.tar.gz</B> - linux executables
   <LI><B>exe_mac.tar.gz</B> - mac executables
   <LI><B>exe_win.tar.gz</B> - Windows executables
