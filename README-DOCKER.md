@@ -9,7 +9,7 @@ docker build -t pfglab/pdbsum1:latest .   # once (downloads the wwPDB component 
 .\pdbsum1.ps1 myprotein.pdb               # Windows PowerShell
 ```
 
-Full instructions for biologists: [manual/PDBsum1-User-Manual.pdf](manual/PDBsum1-User-Manual.pdf)
+Short user guide for biologists (how to run it on the lab VM):
 (LaTeX source alongside).
 
 | File | Purpose |
