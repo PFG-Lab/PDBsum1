@@ -1,0 +1,9 @@
+# Usage:  docker compose run --rm pdbsum1 myprotein.pdb
+# Put input PDB files in ./input ; results appear in ./results
+services:
+  pdbsum1:
+    image: pfglab/pdbsum1:latest
+    build: .
+    volumes:
+      - ./input:/input:ro
+      - ./results:/results
